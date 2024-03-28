@@ -1,30 +1,26 @@
 {
-  "name": "plugin-sample-vite-svelte",
-  "author": "frostime",
-  "url": "https://github.com/siyuan-note/plugin-sample-vite-svelte",
-  "version": "0.3.4",
+  "name": "siyuan_main_window_modification",
+  "author": "zxkmm",
+  "url": "https://github.com/zxkmm/siyuan_main_window_modification",
+  "version": "0.0.1",
   "minAppVersion": "3.0.0",
   "backends": [
     "windows",
     "linux",
-    "darwin",
-    "ios",
-    "android"
+    "darwin"
   ],
   "frontends": [
     "desktop",
-    "mobile",
     "browser-desktop",
-    "browser-mobile",
     "desktop-window"
   ],
   "displayName": {
-    "en_US": "Plugin sample with vite and svelte",
-    "zh_CN": "插件样例 vite + svelte 版"
+    "en_US": "Main window fine tune",
+    "zh_CN": "主窗口微调"
   },
   "description": {
-    "en_US": "SiYuan plugin sample with vite and svelte",
-    "zh_CN": "使用 vite 和 svelte 开发的思源插件样例"
+    "en_US": "Fine tune your SiYuan main window",
+    "zh_CN": "调节主窗口的外边框和控制按钮位置"
   },
   "readme": {
     "en_US": "README.md",
@@ -32,10 +28,10 @@
   },
   "funding": {
     "custom": [
-      "https://afdian.net/a/frostime"
+      "https://github.com/zxkmm"
     ]
   },
   "keywords": [
-    "plugin", "sample", "插件样例"
+    "主窗口微调", "主窗口", "微调", "边框", "控制按钮"
   ]
 }

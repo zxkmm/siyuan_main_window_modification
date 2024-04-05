@@ -249,7 +249,7 @@ export default class siyuan_rmv_btn extends Plugin {
 
     onLayoutReady() {
 
-        console.dir(commonMenuNode);
+        // console.dir(commonMenuNode);
 
 
         this.loadData(STORAGE_NAME);

@@ -1,4 +1,8 @@
 {
+
+    "beggingTitle": "🙏 Begging 🙏",
+    "beggingDesc": "This plugin is open source and free, so I need your encouragement.<br>If you like the features this plugin brings you, you can consider donating to help me with basic living expenses 🍚: <a href='https://pipe.b3log.org/blogs/zxkmm/articles/2025/02/08/1738993480704'>Donate</a>. (Donations won't unlock additional features)<br>If you're not financially comfortable, you can encourage me by giving a free ⭐ star to <a href='https://github.com/zxkmm/siyuan_main_window_modification'>my GitHub repository</a>.<br>If you or someone you know needs my skills, feel free to hire me anytime.",
+  
     "totalSwitch": "Total Switch",
     "enableWindowControlBtnsReload": "Enable Customization of Window Control Buttons",
     "enableWindowControlBtnsReloadDesc": "Customize the position and layout of window control buttons",
@@ -18,6 +22,18 @@
     "bodyBorderLeftWidthDesc": "Unit: pixels. May overlap with the right border.",
     "bodyBorderRightWidth": "Right Border Width",
     "bodyBorderRightWidthDesc": "Unit: pixels. May be overlapped by the left border.",
-    "hintTitle": "About v0.0.1",
+    "bodyBorderColor": "Border Color",
+    "bodyBorderColorDesc": "The color of the main window border.",
+    "addToolbarPadding": "Add Toolbar Padding",
+    "addToolbarPaddingDesc": "",
+    "toolbarPaddingTopWidth": "Top Padding Width",
+    "toolbarPaddingTopWidthDesc": "Unit: pixels.",
+    "toolbarPaddingBottomWidth": "Bottom Padding Width",
+    "toolbarPaddingBottomWidthDesc": "Unit: pixels.",
+    "toolbarPaddingLeftWidth": "Left Padding Width",
+    "toolbarPaddingLeftWidthDesc": "Unit: pixels.",
+    "toolbarPaddingRightWidth": "Right Padding Width",
+    "toolbarPaddingRightWidthDesc": "Unit: pixels.",
+    "hintTitle": "About",
     "hintDesc": "<ul><li>● Made by <a href='https://github.com/zxkmm'>zxkmm</a>, open source under the MIT license.</li><li>● If you like this plugin, please light up the free star⭐ (Star) for my GitHub repository.</li><li>● Link: <a href='https://github.com/zxkmm/siyuan_main_window_modification'>https://github.com/zxkmm/siyuan_main_window_modification</a></li><li>"
     }

@@ -1,6 +1,6 @@
 {
   "name": "siyuan_main_window_modification",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "description": "This is a sample plugin based on vite and svelte for Siyuan (https://b3log.org/siyuan)",
   "repository": "https://github.com/zxkmm/siyuan_main_window_modification",

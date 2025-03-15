@@ -5,9 +5,6 @@ Fine tune your SiYuan main window.
 go to release page or go to SiYuan's market and search `Main window fine tune`    
 
 
-## changelog v0.0.1
- - init release
-
 
 # Links
 repo/Source Code："https://github.com/zxkmm/siyuan_main_window_modification",

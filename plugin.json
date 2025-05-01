@@ -6,8 +6,7 @@
   "minAppVersion": "3.0.0",
   "backends": [
     "windows",
-    "linux",
-    "darwin"
+    "linux"
   ],
   "frontends": [
     "desktop",
